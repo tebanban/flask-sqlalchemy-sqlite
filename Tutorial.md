@@ -1,5 +1,8 @@
 
 
+# Activate env
+ ./venv/Scripts/activate
+
 # Connection URI Format  
  #Windows (note 3 leading forward slashes and backslash escapes)
  sqlite:///C:\\absolute\\path\\to\\foo.db
